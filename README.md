@@ -5,7 +5,7 @@ Basic CRUD in CLI using Python and MySQL.
 Install required modules.
 
 ```
-pip -m install mysql-connector-python
+pip install mysql-connector-python prettytable
 ```
 
 Run.
