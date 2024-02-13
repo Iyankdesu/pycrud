@@ -6,11 +6,10 @@ import delete
 
 
 def display_menu():
-    print("### CRUD Todo App ###")
-    print("1. Add")
+    print("\n1. Add")
     print("2. Read")
     print("3. Update")
-    print("4. Delte")
+    print("4. Delete")
     print("5. Quit")
 
 
